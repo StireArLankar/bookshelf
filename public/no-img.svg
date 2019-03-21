@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<g>
+<path d="m580 300a280 280 0 1 1 -560 0 280 280 0 1 1 560 0z" fill="#fff" stroke="#aaa" stroke-dashoffset="0pt" stroke-linecap="square" stroke-width="10"/>
+<text x="300.031" y="230.547" fill="rgb(70, 70, 70)" font-family="'Lucida Sans Unicode'" font-size="64px" stroke-width="1px" text-align="center" text-anchor="middle" style="line-height:125%" xml:space="preserve"><tspan x="300.031" y="230.547" text-align="center" style="line-height:125%">НЕТ</tspan><tspan x="300.031" y="310.547" text-align="center" style="line-height:125%">ДОСТУПНОГО</tspan><tspan x="300.031" y="390.547" text-align="center" style="line-height:125%">ИЗОБРАЖЕНИЯ</tspan></text>
+</g>
+</svg>

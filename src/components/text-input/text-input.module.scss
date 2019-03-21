@@ -1,0 +1,23 @@
+.label {
+  width: 60%;
+  margin: 5px;
+  padding: 5px 10px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(255, 192, 203, 0.5);
+}
+
+.input {
+  background-color: transparent;
+  border: none;
+  padding: 5px;
+
+  &--active {
+    background-color: rgba(255, 192, 203, 0.5);
+  }
+
+  &--invalid {
+    background-color: rgba(247, 58, 90, 0.808);
+  }
+}

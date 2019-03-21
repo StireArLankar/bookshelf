@@ -1,0 +1,27 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.btn {
+  margin-top: 10px;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(98, 148, 255);
+  color: white;
+  font-size: 20px;
+  outline: none;
+  transition: transform 0.1s ease-out;
+
+  &:hover,
+  &:focus {
+    box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.1);
+  }
+
+  &:active {
+    box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.1);
+    transform: translateY(1px) scale(0.99);
+  }
+}

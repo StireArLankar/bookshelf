@@ -1,0 +1,21 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Title1",
+      "description": "Desc1",
+      "author": "Author1",
+      "ISBN": "1234",
+      "year": 2000,
+      "rating": 3
+    },
+    {
+      "id": 2,
+      "title": "Title2",
+      "description": "Desc2",
+      "author": "Author2",
+      "ISBN": "1234",
+      "year": 2000
+    }
+  ]
+}
